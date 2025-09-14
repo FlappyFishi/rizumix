@@ -1,0 +1,2 @@
+**What it does:** Editor-agnostic settings for whitespace and newlines.  
+**What you put here:** Indent type/size, `end_of_line = lf`, `insert_final_newline = true`.

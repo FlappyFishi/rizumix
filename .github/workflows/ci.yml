@@ -1,0 +1,2 @@
+# CI workflow — builds and runs tests on Windows/Linux/macOS
+# Triggers on push and pull_request.
